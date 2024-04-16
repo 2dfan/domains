@@ -2,10 +2,11 @@
 
 ## 主要域名
 
-- **主域名（大陆可访问）：[https://ddfan.org](https://ddfan.org)**
-- 
+- **主域名（大陆已屏蔽）：[https://ddfan.org](https://ddfan.org)**
 ## 备用域名
+
 - 备用域名A：[https://fan2d.lol](https://fan2d.lol)
+- 备用域名B：[https://ddfan.top](https://ddfan.top)
 
 ## 直连工具
 
