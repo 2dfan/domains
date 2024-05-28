@@ -5,8 +5,9 @@
 - **主域名（大陆已屏蔽）：[https://ddfan.org](https://ddfan.org)**
 ## 备用域名
 
-- 备用域名A：[https://fan2d.lol](https://fan2d.lol)
+- 备用域名A：[https://fan2d.top](https://fan2d.top) （新增）
 - 备用域名B：[https://ddfan.top](https://ddfan.top)
+- 备用域名C：[https://galge.top](https://galge.top)
 
 ## 直连工具
 
