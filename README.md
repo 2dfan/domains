@@ -9,9 +9,9 @@
 
 目前启用的全部备用域名以及对应线路说明：
 
-- https://2dfmax.top/  新增
+- https://2dfdf.de/  新增
+- https://2dfmax.top/  
 - https://fan2d.top/  中转域名
-- https://ddfan.top/  中转域名
 - https://galge.top/  （即将废弃）
 
 主要域名适合科学上网或者海外用户使用，中转域名适合中国大陆地区用户使用。
